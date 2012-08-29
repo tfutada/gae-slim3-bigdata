@@ -1,0 +1,2 @@
+serviceClass: com.go2group.mypro2.client.GreetingService
+path: 0892E8418B0FBB3BB034EB4B22811F4B.gwt.rpc

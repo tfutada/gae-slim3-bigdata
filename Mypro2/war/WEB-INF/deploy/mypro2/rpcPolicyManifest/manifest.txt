@@ -1,0 +1,2 @@
+# Module mypro2
+# RPC service class, partial path of RPC policy file
