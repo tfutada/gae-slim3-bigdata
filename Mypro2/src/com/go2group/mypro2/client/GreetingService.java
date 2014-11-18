@@ -11,5 +11,5 @@ public interface GreetingService extends RemoteService {
 	String greetServer(String name) throws IllegalArgumentException;
 	
 	/* hoge */
-	System.out.println("ss");
+	System.out.println("sshhh");
 }
